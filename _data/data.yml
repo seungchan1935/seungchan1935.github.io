@@ -53,9 +53,9 @@ education:
         time: 2018 - 2023
         details: |
           2018년도에 1학년으로 입학해서 지금은 6학년 이고 올해 졸업 합니다.
-            - Bullet point Entry 코딩
-            - Bullet point scartch 코딩
-            - Bullet point codu 코딩
+            - Entry 코딩
+            - scartch 코딩
+            - codu 코딩
 
 experiences:
     title: Experiences
@@ -64,16 +64,16 @@ experiences:
         time: 2023 - 현제
         company: 이루는 교회
         details: |.
-            - Bullet point pythone
-            - Bullet poin app inventor
-            - Bullet poin make github page
+            - pythone
+            - app inventor
+            - make github page
       - role: 초등부 학생
         time: 2021 - 현재
         company: Google, London
         details: |.
-            - Bullet point 초등부 찬양팀
-            - Bullet point 드럼 배우기
-            - Bullet point 예배 드리기
+            - 초등부 찬양팀
+            - 드럼 배우기
+            - 예배 드리기
 
 skills:
     title: Skills &amp; Proficiency
