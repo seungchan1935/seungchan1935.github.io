@@ -53,51 +53,27 @@ education:
         time: 2018 - 2023
         details: |
           2018년도에 1학년으로 입학해서 지금은 6학년 이고 올해 졸업 합니다.
-            - Entry 코딩
-            - scartch 코딩
-            - codu 코딩
+            - Bullet point Entry 코딩
+            - Bullet point scartch 코딩
+            - Bullet point codu 코딩
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
+      - role: 채우는 교실 코딩 러너
+        time: 2023 - 현제
+        company: 이루는 교회
+        details: |.
+            - Bullet point pythone
+            - Bullet poin app inventor
+            - Bullet poin make github page
+      - role: 초등부 학생
+        time: 2021 - 현재
         company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+        details: |.
+            - Bullet point 초등부 찬양팀
+            - Bullet point 드럼 배우기
+            - Bullet point 예배 드리기
 
 skills:
     title: Skills &amp; Proficiency
