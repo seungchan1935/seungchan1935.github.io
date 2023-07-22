@@ -61,16 +61,16 @@ experiences:
     title: Experiences
     info:
       - role: 채우는 교실 코딩 러너
-        time: 2023 - 현제
+        time: 2023 - 현재
         company: 이루는 교회
-        details: |.
+        details: |
             - pythone
             - app inventor
             - make github page
       - role: 초등부 학생
         time: 2021 - 현재
-        company: Google, London
-        details: |.
+        company: 이루는 교회
+        details: |
             - 초등부 찬양팀
             - 드럼 배우기
             - 예배 드리기
